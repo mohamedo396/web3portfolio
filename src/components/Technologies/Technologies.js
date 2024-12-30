@@ -20,7 +20,8 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            React.js <br/>
+            Next.js <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +33,11 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Node and Databases<br/>
+            spring boot <br/>
+            Django <br/>
+            Solidity
+
           </ListParagraph>
         </ListContainer>
       </ListItem>
